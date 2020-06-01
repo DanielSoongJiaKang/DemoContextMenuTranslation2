@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Englishh"
+        android:orderInCategory="100"
+        android:title="@string/english"/>
+
+
+    <item
+        android:id="@+id/italian"
+        android:orderInCategory="100"
+        android:title="@string/italian"/>
+</menu>
